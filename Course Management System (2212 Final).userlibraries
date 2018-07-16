@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="org.apache.poi:poi-ooxml:3.17">
+    <archive path="C:/Users/fmahb/.m2/repository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/org/apache/poi/poi/3.17/poi-3.17.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar" />
+    <archive path="C:/Users/fmahb/Dropbox/School 2017-2018/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-tests.jar" />
+    <archive path="C:/Users/fmahb/Dropbox/School 2017-2018/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7.jar" />
+    <archive path="C:/Users/fmahb/Dropbox/School 2017-2018/jaf-1_1_1/jaf-1.1.1/activation.jar" />
+    <archive path="C:/Users/fmahb/Dropbox/School 2017-2018/javax.mail.jar" />
+  </library>
+  <library name="org.apache.poi:poi:3.17">
+    <archive path="C:/Users/fmahb/.m2/repository/org/apache/poi/poi/3.17/poi-3.17.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" />
+    <archive path="C:/Users/fmahb/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
